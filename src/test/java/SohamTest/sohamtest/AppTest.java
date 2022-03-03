@@ -9,12 +9,9 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
+    
+    public static void main( String[] args )
     {
-        assertTrue( true );
+        System.out.println( "Soham" );
     }
 }
